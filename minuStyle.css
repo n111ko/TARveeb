@@ -5,9 +5,8 @@ body {
 
 img {
     border: 1px solid grey;
-    border-radius: 45px;
-    width: 400px;
-    height: 600px;
+    border-radius: 180px;
+    width: 20%;
 }
 
 h1 {
