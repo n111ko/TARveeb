@@ -18,6 +18,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: #51484E;
+    margin: 2% 2% 1% 2%;
+
+}
+
 h3 {
     color: #51484E;
     margin-left: 2%;
@@ -33,6 +39,11 @@ ul {
 }
 
 a {
+    margin-left: 2%;
+    color: #565647;
+}
+
+p {
     margin-left: 2%;
     color: #565647;
 }
