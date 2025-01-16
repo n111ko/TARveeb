@@ -1,6 +1,26 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #afb2b3;
+}
+
 img {
     border: 1px solid grey;
     border-radius: 45px;
     width: 400px;
     height: 600px;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    color: #477a7b;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 5%;
+    border: 1pt dotted grey;
+    width: 30%;
 }
